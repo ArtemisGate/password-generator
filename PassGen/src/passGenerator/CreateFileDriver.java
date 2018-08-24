@@ -7,7 +7,7 @@ public class CreateFileDriver {
 	public static void main(String[] args) 
 	{
 	
-		CreateFile name = new CreateFile("Test.txt");
+		CreateFile name = new CreateFile("Password.txt");
 		
 	}
 
