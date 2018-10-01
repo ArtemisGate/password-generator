@@ -1,6 +1,35 @@
-# password-generator
-A password generator implemented in Java 
-This app generates a password of user specific length with one digit, one uppercase, one lowercase, and one special character. 
-It then writes it to file called password.txt
 
-To change the number of password generate, please change the value of i in RunPasswordGenerator java file.
+# Password Generator
+A password Generator created using java API libraries that generates passwords with one lowercase, one uppercase, and special character(s)
+
+## Getting Started
+This program requires some knowledge of the command line to use
+Download project and open up terminal and go to director and use java -programname to run
+
+
+
+### Prerequisites
+Requires Java Runtime
+
+
+
+
+
+## Built With
+
+* Java Standard Libaries 
+
+## Contributing
+No contributing is require nor accepted
+
+## Versioning
+V 1.0
+
+
+## Authors
+
+* **Scott Tat** - 
+
+
+
+
